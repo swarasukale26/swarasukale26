@@ -1,5 +1,5 @@
-Hi there! I'm Swara Sukale 👋
-Automation & Robotics Engineering Student | Robotics Enthusiast
+Hi there! I'm Swara Sukale 
+👋Automation & Robotics Engineering Student | Robotics Enthusiast
 
 I'm a third-year Bachelor of Engineering student specializing in Automation & Robotics at Dr. D. Y. Patil Institute of Technology, Pune.
 I'm interested in developing practical engineering solutions in robotics, autonomous systems, UAVs and simulation engineering.
