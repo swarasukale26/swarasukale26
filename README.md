@@ -4,7 +4,7 @@
 
 I'm a third-year Bachelor of Engineering student specializing in Automation & Robotics at Dr. D. Y. Patil Institute of Technology, Pune.
 
-I'm interested in developing practical engineering solutions in robotics, autonomous systems, UAVs and simulation engineering.
+I'm passionate about developing practical engineering solutions in robotics, autonomous systems, UAVs and simulation engineering.
 
 ## 🚀 About Me
 
@@ -24,7 +24,7 @@ I'm interested in developing practical engineering solutions in robotics, autono
 | Simulation | Gazebo, RViz |
 | Operating Systems | Linux, Ubuntu |
 | CAD & Design | SolidWorks |
-| Engineering Analysis | ANSYS |
+| Engineering Analysis | ANSYS Workbench |
 
 ## 📂 Featured Projects
 
@@ -33,7 +33,7 @@ I'm interested in developing practical engineering solutions in robotics, autono
 
 - Contributed to the ROS 2 development and simulation environment.
 - Worked on quadruped robot modelling and simulation setup.
-- Exploring autonomous mapping and hazard detection concepts.
+- Explored autonomous mapping and hazard detection concepts.
 
 **Technologies:** ROS 2, Gazebo, URDF/Xacro, RViz, Linux.
 
@@ -41,7 +41,7 @@ I'm interested in developing practical engineering solutions in robotics, autono
 **Academic / Personal Project**
 
 - Created a four-degree-of-freedom robotic arm description using URDF/Xacro.
-- Defined robot links and joints.
+- Defined robot links, joints and their configurations.
 - Worked on robot visualization using RViz.
 - Implemented interactive joint control using Joint State Publisher GUI.
 
@@ -49,14 +49,18 @@ I'm interested in developing practical engineering solutions in robotics, autono
 
 🔗 **[View Project Repository](https://github.com/swarasukale26/4dof-robotic-arm)**
 
-### 3. Industrial 2-Finger Gripper – CAD Design & Structural Analysis
+### 3. [Industrial 2-Finger Gripper – CAD Design & Structural Analysis](https://github.com/swarasukale26/Industrial-Gripper-Design)
 **Academic Project**
 
-- Designed and assembled an industrial parallel-jaw gripper using SolidWorks.
-- Performed load calculations for a 10 kg payload.
-- Explored static structural analysis using ANSYS.
+- Designed and assembled a two-finger parallel-jaw industrial gripper using SolidWorks.
+- Developed the CAD assembly and exported it in STEP format.
+- Performed engineering load calculations for a target payload of 10 kg.
+- Conducted static structural analysis using ANSYS Workbench.
+- Evaluated total deformation, equivalent von-Mises stress, elastic strain and safety factor.
 
-**Technologies:** SolidWorks, ANSYS.
+**Technologies:** SolidWorks, ANSYS Workbench, CAD, Structural Analysis.
+
+🔗 **[View Project Repository](https://github.com/swarasukale26/Industrial-Gripper-Design)**
 
 ## 🏆 Technical Activities
 
@@ -66,7 +70,7 @@ I'm interested in developing practical engineering solutions in robotics, autono
 
 ## 🎯 Areas of Interest
 
-Robotics | Autonomous Systems | UAVs | ROS 2 | Simulation Engineering | Automation
+Robotics | Autonomous Systems | UAVs | ROS 2 | Simulation Engineering | Mechanical Design | Automation
 
 ## 🤝 Connect With Me
 
