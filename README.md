@@ -28,16 +28,8 @@ I'm passionate about developing practical engineering solutions in robotics, aut
 
 ## 📂 Featured Projects
 
-### 1. AutoMap Telemetry – Autonomous Mapping & Hazard Detection Robot
-**Team Academic Project**
 
-- Contributed to the ROS 2 development and simulation environment.
-- Worked on quadruped robot modelling and simulation setup.
-- Explored autonomous mapping and hazard detection concepts.
-
-**Technologies:** ROS 2, Gazebo, URDF/Xacro, RViz, Linux.
-
-### 2. [4-DOF Robotic Arm – Modelling & Visualization](https://github.com/swarasukale26/4dof-robotic-arm)
+### 1. [4-DOF Robotic Arm – Modelling & Visualization](https://github.com/swarasukale26/4dof-robotic-arm)
 **Academic / Personal Project**
 
 - Created a four-degree-of-freedom robotic arm description using URDF/Xacro.
@@ -49,7 +41,7 @@ I'm passionate about developing practical engineering solutions in robotics, aut
 
 🔗 **[View Project Repository](https://github.com/swarasukale26/4dof-robotic-arm)**
 
-### 3. [Industrial 2-Finger Gripper – CAD Design & Structural Analysis](https://github.com/swarasukale26/Industrial-Gripper-Design)
+### 2. [Industrial 2-Finger Gripper – CAD Design & Structural Analysis](https://github.com/swarasukale26/Industrial-Gripper-Design)
 **Academic Project**
 
 - Designed and assembled a two-finger parallel-jaw industrial gripper using SolidWorks.
@@ -61,6 +53,15 @@ I'm passionate about developing practical engineering solutions in robotics, aut
 **Technologies:** SolidWorks, ANSYS Workbench, CAD, Structural Analysis.
 
 🔗 **[View Project Repository](https://github.com/swarasukale26/Industrial-Gripper-Design)**
+
+### 3. AutoMap Telemetry – Autonomous Mapping & Hazard Detection Robot
+**Team Academic Project**
+
+- Contributed to the ROS 2 development and simulation environment.
+- Worked on quadruped robot modelling and simulation setup.
+- Explored autonomous mapping and hazard detection concepts.
+
+**Technologies:** ROS 2, Gazebo, URDF/Xacro, RViz, Linux.
 
 ## 🏆 Technical Activities
 
