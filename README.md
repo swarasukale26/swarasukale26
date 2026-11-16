@@ -30,7 +30,7 @@ I'm passionate about developing practical engineering solutions in robotics, aut
 
 
 ### 1. [4-DOF Robotic Arm – Modelling & Visualization](https://github.com/swarasukale26/4dof-robotic-arm)
-**Academic / Personal Project**
+**Personal Project**
 
 - Created a four-degree-of-freedom robotic arm description using URDF/Xacro.
 - Defined robot links, joints and their configurations.
@@ -42,7 +42,7 @@ I'm passionate about developing practical engineering solutions in robotics, aut
 🔗 **[View Project Repository](https://github.com/swarasukale26/4dof-robotic-arm)**
 
 ### 2. [Industrial 2-Finger Gripper – CAD Design & Structural Analysis](https://github.com/swarasukale26/Industrial-Gripper-Design)
-**Academic Project**
+**Personal Project**
 
 - Designed and assembled a two-finger parallel-jaw industrial gripper using SolidWorks.
 - Developed the CAD assembly and exported it in STEP format.
